@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tohsakarin_service:war exploded">
+    <output-path>$PROJECT_DIR$/tohsakarin_service/target/tohsakarin_service</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tohsakarin_service" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="tohsakarin_interface-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="tohsakarin_interface" />
+          </element>
+          <element id="archive" name="tohsakarin_dao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="tohsakarin_dao" />
+          </element>
+          <element id="library" level="project" name="Maven: com.c4:tohsakarin_pojo:1.0-SNAPSHOT" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/tohsakarin_service/target/tohsakarin_service/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="tohsakarin_service/web/Web" />
+    </root>
+  </artifact>
+</component>

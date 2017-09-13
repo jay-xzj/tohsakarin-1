@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tohsakarin_service:war">
+    <output-path>$PROJECT_DIR$/tohsakarin_service/target</output-path>
+    <root id="archive" name="tohsakarin_service.war">
+      <element id="artifact" artifact-name="tohsakarin_service:war exploded" />
+    </root>
+  </artifact>
+</component>

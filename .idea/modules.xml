@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tohsakarin.iml" filepath="$PROJECT_DIR$/tohsakarin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tohsakarin_api/tohsakarin_api.iml" filepath="$PROJECT_DIR$/tohsakarin_api/tohsakarin_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tohsakarin_dao/tohsakarin_dao.iml" filepath="$PROJECT_DIR$/tohsakarin_dao/tohsakarin_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tohsakarin_interface/tohsakarin_interface.iml" filepath="$PROJECT_DIR$/tohsakarin_interface/tohsakarin_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tohsakarin_pojo/tohsakarin_pojo.iml" filepath="$PROJECT_DIR$/tohsakarin_pojo/tohsakarin_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tohsakarin_service/tohsakarin_service.iml" filepath="$PROJECT_DIR$/tohsakarin_service/tohsakarin_service.iml" />
+    </modules>
+  </component>
+</project>
