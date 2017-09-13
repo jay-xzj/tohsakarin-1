@@ -13,7 +13,9 @@
           <element id="archive" name="tohsakarin_dao-1.0-SNAPSHOT.jar">
             <element id="module-output" name="tohsakarin_dao" />
           </element>
-          <element id="library" level="project" name="Maven: com.c4:tohsakarin_pojo:1.0-SNAPSHOT" />
+          <element id="archive" name="tohsakarin_pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="tohsakarin_pojo" />
+          </element>
         </element>
       </element>
       <element id="directory" name="META-INF">
