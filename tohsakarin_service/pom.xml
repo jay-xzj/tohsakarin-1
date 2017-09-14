@@ -52,8 +52,8 @@
         </dependency>
         <!-- 连接池 -->
         <dependency>
-            <groupId>com.jolbox</groupId>
-            <artifactId>bonecp-spring</artifactId>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
         </dependency>
         <!-- JSP相关 -->
         <dependency>
