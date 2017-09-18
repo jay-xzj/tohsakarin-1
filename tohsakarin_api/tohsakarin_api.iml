@@ -95,5 +95,9 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:4.2.8.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.rabbitmq:http-client:1.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.rabbitmq:amqp-client:3.6.5" level="project" />
+    <orderEntry type="library" name="Maven: org.junit.jupiter:junit-jupiter-api:5.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.opentest4j:opentest4j:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.junit.platform:junit-platform-commons:1.0.0" level="project" />
   </component>
 </module>

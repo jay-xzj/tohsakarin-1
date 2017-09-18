@@ -64,6 +64,10 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.2.8.RELEASE" />
           <element id="library" level="project" name="Maven: com.rabbitmq:http-client:1.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:3.6.5" />
+          <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.0.0" />
+          <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.0.0" />
+          <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.0.0" />
+          <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.0.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">
