@@ -13,7 +13,7 @@
         <module name="tohsakarin_service" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="tohsakarin" target="1.7" />
       <module name="tohsakarin_api" target="1.7" />
       <module name="tohsakarin_dao" target="1.7" />
